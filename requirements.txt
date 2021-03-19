@@ -13,7 +13,7 @@ decorator==4.1.2
 Django==1.11.6
 django-aliyun-oss2-storage==0.1.2
 django-webpack-loader==0.5.0
-djangorestframework==3.6.4
+djangorestframework==3.11.2
 hyperlink==17.3.1
 idna==2.6
 incremental==17.5.0
